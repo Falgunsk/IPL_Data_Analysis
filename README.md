@@ -1,9 +1,12 @@
 # IPL_Data_Analysis
-**The Dataset used below Contains Players Bowling and Batting Stats from IPL 2016-2022.**
+**The Dataset used Contains Players Bowling and Batting Stats from IPL 2016-2022.**
 
 
 
 **SOURCE** -- https://www.kaggle.com/datasets/anandkumarsahu09/ipl-player-stats-20162022
+
+
+**Analysis done without using Pandas, Seaborn & Sci-kit learn**
 
 
 
